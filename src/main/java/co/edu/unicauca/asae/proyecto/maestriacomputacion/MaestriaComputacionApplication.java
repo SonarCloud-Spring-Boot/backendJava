@@ -8,7 +8,6 @@ public class MaestriaComputacionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MaestriaComputacionApplication.class, args);
-		logger.log("Application running");
 	}
 
 }
