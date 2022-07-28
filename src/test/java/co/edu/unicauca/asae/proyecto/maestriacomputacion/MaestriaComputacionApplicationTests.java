@@ -8,8 +8,6 @@ class MaestriaComputacionApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Integer var;
-		assertThat(var).isNull();
 	}
 
 }
