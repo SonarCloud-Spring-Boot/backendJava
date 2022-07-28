@@ -8,6 +8,8 @@ class MaestriaComputacionApplicationTests {
 
 	@Test
 	void contextLoads() {
+		String var = "2";
+		assertThat("2",var);
 	}
 
 }
